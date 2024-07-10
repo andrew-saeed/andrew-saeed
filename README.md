@@ -9,7 +9,7 @@
     💞️ I’m looking to collaborate on Knowledge sharing    
   </li>
   <li>
-    📫 DM at andrew-saeed.dev@outlook.com
+    📫 DM at andrewsaeed95@gmail.com
   </li>
   <li>
     ⚡ Fun fact: AI is so Scary!
