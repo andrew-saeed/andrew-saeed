@@ -3,10 +3,7 @@
     👋 Hi, I’m andrew saeed    
   </li>
   <li>
-    📖 I’m learning Web Development every day
-  </li>
-  <li>
-    💞️ I’m looking to collaborate on Knowledge sharing    
+    📖 I’m a Web Developer
   </li>
   <li>
     📫 DM at andrewsaeed95@gmail.com
